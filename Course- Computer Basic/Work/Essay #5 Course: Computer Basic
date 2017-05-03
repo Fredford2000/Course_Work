@@ -1,0 +1,30 @@
+ESSAY: 
+
+Write out the definition for each of the following terms in your own words:
+
+Bus
+Function
+Hub
+LAN
+Platform
+Protocol
+Ring network
+Star network
+
+Bus: A group of wires bundled together that transfer data between the different parts of a computer or to other computers or machines.
+
+Function: A command given to a computer to complete a task.
+
+Hub: A machine that sends requested data to all the computers in a network.
+
+LAN:(local area network) A network of computers that are in relatively close proximity to one another and don't rely on the internet to transfer data.
+
+Platform: The combination of the hardware and operation system that are use in a computer.
+
+Protocol: A system of rules used to accomplish a task like transferring data over the internet. 
+
+Ring Network: A network in which the computers are connected to one another in a loop.
+
+Star Network: A network in which all the computers are connected to a hub.
+
+-Brian Miller
