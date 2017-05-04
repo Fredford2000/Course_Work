@@ -1,0 +1,50 @@
+ESSAY: 
+
+Write out the definition for each of the following terms in your own words:
+
+.htm
+/ (slash)
+// (two slashes)
+: (colon)
+Core
+Encryption
+Fiber optics
+HTTPS
+XML
+Index
+ISP
+JPEG
+Peer
+Script
+SSL
+
+
+.htm: Another way to write ".html" that goes at the end of a file name to tell you and the computer that it is a html file.
+
+/ (slash): Most often is used to separate folders/files in an address for data.
+
+// (two slashes): Is used in some programming languages to write comments that are only for the programmer, the computer does not consider these comments when reading/executing the program.
+
+: (colon): Often used to show some relation between two things in programming languages.
+
+Encryption: A process for scrambling data to keep it safe.
+
+Fiber optics: The use of fiber cords that light can travel through to transmit data really fast.
+
+HTTPS: (hyper text transfer protocol secure) The protocol use to transmit data over the internet that needs to be encrypted to keep it safe.
+
+XML: (extensible markup language) A markup language that can be customized by the user.
+
+Index: A organized group of data that tells you where to find specific data in a larger group of data to minimize search time.
+
+ISP: (internet service provider) A company you can pay to connect you to the internet.
+
+JPEG: (joint photographic experts group) A file format used for pictures.
+
+Peer: In relation to computers, the computer you created a handshake/connection with to transfer data.
+
+Script: A program that once started runs on its own and doesn't take user input.
+
+SSL: (secure socket layer) The technology used to make a secure connect between a server and a browser.
+
+-Brian Miller
