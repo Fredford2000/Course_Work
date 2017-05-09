@@ -1,0 +1,30 @@
+ESSAY: 
+
+Write out the definition for each of the following terms in your own words:
+
+BMP
+Byte
+Data format
+Encode
+File format
+Flag
+Source code
+Stream
+
+BMP: (bitmap) A file format for images.
+
+Byte: Eight bits of data strung together.
+
+Data Format: Protocol for how a specific set of data is organized.
+
+Encode: To convert something into code, like turning ideas for a program into software.
+
+File Format: Protocol for how data is organized in a computer file.
+
+Flag: An indicator in computers used to determine a two state condition.
+
+Source Code: The code that programmers write for their program before it gets converted into machine code for the computer.
+
+Stream: a constant flow of information into a computer or other machine.
+
+-Brian Miller
