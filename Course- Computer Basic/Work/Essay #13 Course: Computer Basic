@@ -1,0 +1,70 @@
+ESSAY: 
+
+a. Define decimal.
+b. Define integer.
+c. Define base.
+d. Write out what a "base five" number system would be.
+e. Define binary.
+f. Count to 25 using binary (write this out) in rows.
+g. Translate the following binary numbers into decimal numbers:
+
+010 =_______
+011001 =_______
+011111 =_______
+01011010 =_______
+011110101001 =_______
+01001110101101 =_______
+
+h. Answer the following binary addition problems:
+
+001 + 010 =
+0110 + 0010 =
+0011111 + 0110110 =
+
+
+Decimal: The commonly used base ten numbering system. Also used to describe a number that is defined passed the decimal point, for example 1.12.
+
+Integer: A whole number, not a fraction or a decimal.
+
+Base: The base of a numbering system is how many unique digits are in that system.
+
+A base five numbering system would have five digits 0, 1, 2, 3, and 4. Each place value would be five times the place value to it's right. So you would have the ones place, the fives place, the twenty fives place, the one hundred and twenty fives place and so on.
+
+000001=1
+000010=2
+000011=3
+000100=4
+000101=5
+000110=6
+000111=7
+001000=8
+001001=9
+001010=10
+001011=11
+001100=12
+001101=13
+001110=14
+001111=15
+010000=16
+010001=17
+010010=18
+010011=19
+010100=20
+010101=21
+010110=22
+010111=23
+011000=24
+011001=25
+
+010=2
+011001=25
+011111=49
+01011010=90
+011110101001=1,961
+01001110101101=5,037
+
+001 + 010 = 011 = 3
+0110 + 0010 = 1000 = 8
+0011111 + 0110110 = 1010101 = 85
+
+-Brian Miller
