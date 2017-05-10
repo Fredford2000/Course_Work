@@ -1,0 +1,19 @@
+ESSAY: 
+
+How is a computer basically composed?
+How does a computer work?
+How are numbers stored, added and handled by a computer?
+Why is it useful for you to know how a computer works as a developer?
+What did you learn from doing this section of the course?
+
+A computer is basically composed of storage of data and instructions and a processes to process the instructions. 
+
+A computer needs many things to work properly. A CPU to process instructions and execute them, a hard drive for permanent storage when the computer is off, RAM for quick access to stored data when processing data, a motherboard to connect all the parts, input devices to get input from the user, output devices to give information to the user.
+
+Numbers are stored in RAM, added in the ALU within the CPU, and handled by the CPU with the instructions it gets from RAM.
+
+It will help me understand the limits of programming, help me better understand what computer functions are doing within the computer and what problems may arise.
+
+I learned how the CPU uses registries, the bus, the ALU, and RAM to process basic instructions and execute them.
+
+-Brian Miller
