@@ -1,0 +1,67 @@
+ESSAY: 
+
+Write the definition for each of the following terms in your own words:
+
+Array
+ASP.NET
+Assembly language
+Back end
+BASIC
+C
+C#
+C++
+High level language
+Low level language
+Compiler
+Interpreter
+Front end
+Java
+JavaScript
+JQuery
+JSON
+Load
+Load Testing
+Object-oriented programming
+Scripting language
+
+Array: A group of similar things stored together in a line.
+
+ASP.NET: (Active Server Pages.Net) A framework for making complex or dynamic web sites.
+
+Assembly Language: The code programmers use to write software.
+
+Back End: All the things happening in the background on your computer that you don't see.
+
+BASIC: (Beginner's All-purpose Symbolic Instruction Code) A programming language developed in the 1960s to give students a simple programming language to work with.
+
+C: A lower level programming language first developed between 1969 and 1973.
+
+C#: A programming language developed by Microsoft that can be used to make precise steps of instructions for the computer.
+
+C++: A programming language made in the 1980s that can be used in conjunction with other programming languages.
+
+High level language: A programming language that is made to be better understood by humans than computers.
+
+Low level language: A programming language that is made to be better understood by computers than humans.
+
+Compiler: A program that takes assembly language and turns it into machine language for the computer.
+
+Interpreter: A program that turns high level language instructions into low level language instructions one step at a time.
+
+Front end: All the things in your computer that you see and interact with like the screen.
+
+Java: A programming language made in 1995 that was simplified to help programmers with common errors.
+
+JavaScript: A programming language often used to make websites interactive.
+
+JQuery: A library of functions written for JavaScript.
+
+Load: When a computer starts a program.
+
+Load Testing: Simulating a stress test for a program.
+
+Object-oriented Programming: Programming that centers around the objects in the program and their attributes.
+
+Scripting Language: A programming language that can be used to make automatic functions for a computer.
+
+-Brian Miller
