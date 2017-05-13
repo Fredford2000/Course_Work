@@ -1,0 +1,14 @@
+ESSAY:
+
+What is algorithmic thinking?
+
+How can you use various algorithm sorting methods as a software developer?
+
+Turn this essay in to your Instructor.
+
+Algorithmic thinking is clearly defining the steps needed to find a solution to something.
+
+If I had a list or receipts you each month of the year that were sorted by date and I wanted them sorted by price, I could use a merge sort to do that. 
+If I had a list of friends that was sorted by age and I wanted it sorted alphabetically, I could use an insert sort or a selection sort to do that.
+
+-Brian Miller
