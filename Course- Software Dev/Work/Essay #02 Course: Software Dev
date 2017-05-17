@@ -1,0 +1,38 @@
+ESSAY: 
+
+What is a "class"?
+What is an "object"?
+What is an "instance"?
+What is a "constructor"?
+What is "state" versus "stateless"?
+What is "encapsulation"?
+What is "inheritance"?
+How is the parent/child relationship used in programming?
+What is "composition/aggregation"?
+What is "polymorphism"?
+What is an "index"?
+What is a "loop"?
+
+Class: A definition of potential property and behaviors.
+
+Object: It's an actual virtual "object/thing" of the potential property and behaviors described by it's class.
+
+Instance: It's a exact copy of an object.
+
+Constructor: Described behavior in a class for making an object of that class.
+
+State/Stateless: State is something that changes over time and stateless is something that stays the same.
+
+Encapsulation: A function or some code who's inner workings are hidden from the rest of the program so the program doesn't mess up the variables and such within that code.
+
+Inheritance: A parent/child relationship in programming where the child program gains(inherits) all the properties and behaviors of the parent class.
+
+Composition/Aggregation: Composition is when a class is used in another class. Aggregation is when a class exists independently of other classes.
+
+Polymorphism: The rules for how parent/child classes work in your program.
+
+Index: Data that is used to find specific data in a bigger set of data.
+
+Loop: Code that repeats over and over again until some condition is meet.
+
+-Brian Miller
