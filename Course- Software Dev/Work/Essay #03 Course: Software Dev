@@ -1,0 +1,36 @@
+ESSAY:
+
+What is "application lifecycle management" (ALM)?
+What are "data types"?
+In programming, what is a "dictionary"?
+What is a "scripting language"?
+What is a "web application" and what is a "console based" application?
+What is an "assembler" and "assembly language"?
+What is an "interpreter" and "interpreted language"?
+What is a "compiler" and a "compiled language"?
+What is a "framework" and what is the ".NET Framework"?
+
+ALM: Procedures and tools used in the process of making and maintaining software.
+
+Data Types: Data who's format and how to manipulate them are defined.
+
+Dictionary: A key/value pair.
+
+Scripting Language: A programming language used to make programs that perform all their tasks on by them self's without need of input from a user.
+
+Web Application: Where the actual program runs on the server and results are sent to the client.
+Console Based: Where the program runs on the computer your using.
+
+Assembler: Software that converts code written by programmers into machine code.
+Assembly Language: Code written by programmers.
+
+Interpreter: Software that converts one instruction into machine code at a time.
+Interpreted language: A programming language that uses an interpreter.
+
+Compiler: Software that converts the whole program to machine code before executing it.
+Compiled Language: A programming language that uses a compiler.
+
+Framework: A collection of tools for building software with.
+.NET Framework: A collecting of code libraries, documentation, compilers, and interpreters used for making software.
+
+-Brian Miller
