@@ -1,0 +1,19 @@
+ESSAY:
+
+What are five of the most common command line commands?
+What do they each do?
+How is it useful for you to know about the command line as a developer?
+
+cd: Used to swich directories.
+
+dir: Used to list directories and files in current directory.
+
+del: Used to delete files.
+
+move: Used to move files between directories.
+
+ren: Used to rename files and directories.
+
+The command line is useful for me to understand as a developer because it can be move efficient at manipulating files and directories, especially when working with large amounts of them.
+
+-Brian Miller
