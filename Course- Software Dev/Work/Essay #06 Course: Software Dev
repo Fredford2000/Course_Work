@@ -1,0 +1,14 @@
+ESSAY: 
+
+What is program data?
+What is program flow?
+Define "method', "routine", "argument", "return value" and "function" in your own words.
+
+Refers to the instructions that make up a program that are really just data stored in binary just like all other data in a computer.
+
+It's the order that the instructions in a program are executed.
+
+Method, routine, and function are different names for a list of instructions in a program stored in memory that are called by a plain English name. 
+An argument is data given to a function so it can complete it's task and a return value is data the function gives back to the program.
+
+-Brian Miller
