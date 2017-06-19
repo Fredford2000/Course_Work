@@ -1,0 +1,21 @@
+ESSAY: 
+
+Define the following terms in your own words (including, where applicable, stating what the term stands for) :
+
+Version control
+VCS
+TFS
+Branch
+Merge
+
+Version Control: The process of saving snapshots of you files as you work on them over time so you can go back to them if/when the need arises and to make collaboration run smoothly.
+
+VCS: (version control system) A program used for version control.
+
+TFS: (team foundation server) A Microsoft product that provides source code management.
+
+Branch: When you copy a file from the master branch in order to work on it.
+
+Merge: When you combine the branch you were working on to the master branch.
+
+-Brian Miller
