@@ -1,0 +1,14 @@
+FINAL ESSAY:
+
+What is version control? 
+How does Distributed Version Control differ from Centralized Version Control? 
+What benefits are there in understanding Git, GitHub and version control in general? 
+How can you use these tools as a software developer? 
+
+Version control is software used to save a history of changes made to your files by you and others. 
+In distributed version control everyone has their own copy of the repository that they have to update 
+as changes are made while in centralized version control the repository is in one place and files are 
+checkout so by people to work on. Knowing how to use these tools will help me fix errors or revert to 
+older versions if I have to and will make working with other people much better.
+
+-Brian Miller
