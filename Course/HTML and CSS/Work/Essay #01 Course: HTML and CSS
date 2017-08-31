@@ -1,0 +1,44 @@
+ESSAY: Define the following terms in your own words. (include, where applicable, what the term stands for) 
+
+Note - Please email your finished essay to your instructor to receive credit for this assignment. After your answers are graded and you've done any needed corrections, this step is completed.
+
+
+Attribute
+Element
+Tag
+title
+body
+br tag
+h1 tag
+p tag
+b tag
+i tag
+li tag
+div tag
+
+Attribute: Attributes are additional data given to or needed for an element.
+
+Element: An element is a single html component that holds the data and together with the other elements makes the structure of the html file.
+
+Tag: Tags are the things that go at the beginning and end of an element containing it.
+
+Title: The element which contains the name that shows in the tab at the top of the browser.
+
+Body: The element that contains all the content of the webpage.
+
+Br Tag: A tag that can be put in an element to make it break to the next line where you put the br tag.
+
+h1: A level 1 header tag for titles and such throughout the webpage.
+
+p tag: A paragraph tag used in a p element to hold paragraphs of text.
+
+b tag: A tag used to make text bold.
+
+i tag: A tag used to italicize text.
+
+li tag: Used in the li(list item) element which holds an item in a ol(ordered list) or ul(unordered list) element.
+
+div tag: Used in a div element that can be used as a "container" for other elements or 
+whatever else you want.
+
+Brian Miller
