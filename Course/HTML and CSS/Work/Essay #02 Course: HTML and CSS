@@ -1,0 +1,21 @@
+ESSAY: 
+
+Write out how you can apply five of the recommended best practices for HTML and CSS as covered in the previous articles and videos. B. What are some common mistakes to avoid with HTML and CSS? 
+
+Turn this write up in to your Instructor.
+
+A) I can:
+1. Use plenty of comments to explain my code to avoid confusion in the future.
+2. Use classes and IDs sparingly and not without reason to keep my code from
+becoming cluttered.
+3. Use the DRY(Don't repeat yourself) to keep my code efficient.
+4. Use multiple style sheets to keep things organized.
+5. Use a code validator to make sure my code it accurate.
+
+B) 
+Watch for syntax errors.
+Make sure to close my tags.
+Make sure sources/links are correct.
+Not thoroughly testing my code.
+
+Brian Miller 
